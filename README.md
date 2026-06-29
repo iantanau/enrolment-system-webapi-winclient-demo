@@ -180,22 +180,22 @@ The Enrolment table uses a **composite primary key** consisting of:
 
 ### Student Management
 
-![Add Student](student-add.png)
-![View Student](student-view.png)
+![Add Student](images/student-add.png)
+![View Student](images/student-view.png)
 
 ---
 
 ### Course Management
 
-![Add Course](course-add.png)
-![View Course](course-view.png)
+![Add Course](images/course-add.png)
+![View Course](images/course-view.png)
 
 ---
 
 ### Enrolment Management
 
-![Add Enrolment](enrolment-add.png)
-![View Enrolment](enrolment-view.png)
+![Add Enrolment](images/enrolment-add.png)
+![View Enrolment](images/enrolment-view.png)
 
 ---
 
