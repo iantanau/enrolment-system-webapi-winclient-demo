@@ -174,55 +174,42 @@ The Enrolment table uses a **composite primary key** consisting of:
 
 ### Main Menu
 
-```
-images/main-menu.png
-```
+![Main Menu](images/main-menu.png)
 
 ---
 
 ### Student Management
 
-```
-images/student-add.png
-images/student-view.png
-```
+![Add Student](student-add.png)
+![View Student](student-view.png)
 
 ---
 
 ### Course Management
 
-```
-images/course-add.png
-images/course-view.png
-```
+![Add Course](course-add.png)
+![View Course](course-view.png)
 
 ---
 
 ### Enrolment Management
 
-```
-images/enrolment-add.png
-images/enrolment-view.png
-```
+![Add Enrolment](enrolment-add.png)
+![View Enrolment](enrolment-view.png)
 
 ---
 
 ## Swagger API
 
-
-```
-images/swagger.png
-```
+![Swagger API](images/swagger.png)
 
 ---
 
 ## Azure SQL Database
 
-```
-images/azure-sql1.png
-images/azure-sql2.png
-images/azure-sql3.png
-```
+![Azure SQL 1](images/azure-sql1.png)
+![Azure SQL 2](images/azure-sql2.png)
+![Azure SQL 3](images/azure-sql3.png)
 
 ---
 
