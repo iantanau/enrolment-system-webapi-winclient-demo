@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../EnrolmentSystemWebAPI/EnrolmentSystemWebAPI.csproj" />
+  <Project Path="../EnrolmentWinClient/EnrolmentWinClient.csproj" />
+</Solution>
